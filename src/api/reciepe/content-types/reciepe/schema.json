@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "reciepes",
+  "info": {
+    "singularName": "reciepe",
+    "pluralName": "reciepes",
+    "displayName": "reciepe"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}
